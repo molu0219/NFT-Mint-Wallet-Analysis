@@ -13,7 +13,7 @@ https://www.notion.so/079e06017f094cee87e207b2e3fb57b9?v=01d5c78c8c944f4c8f7bbaa
 1️⃣ **Participated Rate**
 
 <aside>
-💡 **Participated Wallets / Total Supply**
+💡 Participated Wallets / Total Supply
 
 (Higer the rate, more people join the Project)
 
@@ -27,7 +27,7 @@ We are not able to consider Airdrop or preserve spots for pre-holder now.
 2️⃣ **Greed Rate**
 
 <aside>
-💡 **1- Groups / Participated Wallets**
+💡 1- Groups / Participated Wallets
 
 (Higer the rate, more repetitive people in the Project)
 
@@ -41,7 +41,7 @@ We are not able to consider Airdrop or preserve spots for pre-holder now.
 3️⃣ **Allocation Rate**
 
 <aside>
-💡 **(Group’s mint ≥ Avg Mint) / Groups**
+💡 (Group’s mint ≥ Avg Mint) / Groups
 
 (Higher the rate, more average NFT allocation)
 
