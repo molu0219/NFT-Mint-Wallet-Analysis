@@ -1,0 +1,442 @@
+{
+    "object": "list",
+    "results": [{
+        "object": "block",
+        "id": "68204693-2335-4595-8067-d1f587b857ad",
+        "parent": {
+            "type": "block_id",
+            "block_id": "dccade80-7167-47e3-813b-30f5e29d217a"
+        },
+        "created_time": "2023-03-08T05:52:00.000Z",
+        "last_edited_time": "2023-03-08T05:52:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "82e1217e-2b1b-4c98-a0e7-34e4884ec1a7"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "82e1217e-2b1b-4c98-a0e7-34e4884ec1a7"
+        },
+        "has_children": false,
+        "archived": false,
+        "type": "table_row",
+        "table_row": {
+            "cells": [
+                [{
+                    "type": "text",
+                    "text": {
+                        "content": "Index",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Index",
+                    "href": null
+                }],
+                [{
+                    "type": "text",
+                    "text": {
+                        "content": "Rate",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Rate",
+                    "href": null
+                }],
+                [{
+                    "type": "text",
+                    "text": {
+                        "content": "Description",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Description",
+                    "href": null
+                }],
+                [{
+                    "type": "text",
+                    "text": {
+                        "content": "Formula",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Formula",
+                    "href": null
+                }],
+                [{
+                    "type": "text",
+                    "text": {
+                        "content": "Notice",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "red_background"
+                    },
+                    "plain_text": "Notice",
+                    "href": null
+                }]
+            ]
+        }
+    }, {
+        "object": "block",
+        "id": "09d329ef-d321-4ec3-96a6-36ccae07e99c",
+        "parent": {
+            "type": "block_id",
+            "block_id": "dccade80-7167-47e3-813b-30f5e29d217a"
+        },
+        "created_time": "2023-03-08T05:52:00.000Z",
+        "last_edited_time": "2023-03-08T05:52:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "82e1217e-2b1b-4c98-a0e7-34e4884ec1a7"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "82e1217e-2b1b-4c98-a0e7-34e4884ec1a7"
+        },
+        "has_children": false,
+        "archived": false,
+        "type": "table_row",
+        "table_row": {
+            "cells": [
+                [{
+                    "type": "text",
+                    "text": {
+                        "content": "Participated Rate",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": true,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Participated Rate",
+                    "href": null
+                }],
+                [{
+                    "type": "text",
+                    "text": {
+                        "content": "56.26%",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "56.26%",
+                    "href": null
+                }],
+                [{
+                    "type": "text",
+                    "text": {
+                        "content": "Higer the rate, more people join the Project",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Higer the rate, more people join the Project",
+                    "href": null
+                }],
+                [{
+                    "type": "text",
+                    "text": {
+                        "content": "Participated Wallets / Total Supply ",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": true,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Participated Wallets / Total Supply ",
+                    "href": null
+                }],
+                [{
+                    "type": "text",
+                    "text": {
+                        "content": "We are not able to consider Airdrop or preserve spots for pre-holder now.",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "We are not able to consider Airdrop or preserve spots for pre-holder now.",
+                    "href": null
+                }]
+            ]
+        }
+    }, {
+        "object": "block",
+        "id": "71c58362-9893-4f70-9341-bee28515d6cf",
+        "parent": {
+            "type": "block_id",
+            "block_id": "dccade80-7167-47e3-813b-30f5e29d217a"
+        },
+        "created_time": "2023-03-08T05:52:00.000Z",
+        "last_edited_time": "2023-03-08T05:52:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "82e1217e-2b1b-4c98-a0e7-34e4884ec1a7"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "82e1217e-2b1b-4c98-a0e7-34e4884ec1a7"
+        },
+        "has_children": false,
+        "archived": false,
+        "type": "table_row",
+        "table_row": {
+            "cells": [
+                [{
+                    "type": "text",
+                    "text": {
+                        "content": "Allocation Rate",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": true,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Allocation Rate",
+                    "href": null
+                }],
+                [{
+                    "type": "text",
+                    "text": {
+                        "content": "4.73%",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "4.73%",
+                    "href": null
+                }],
+                [{
+                    "type": "text",
+                    "text": {
+                        "content": "Higher the rate, more average NFT allocation",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Higher the rate, more average NFT allocation",
+                    "href": null
+                }],
+                [{
+                    "type": "text",
+                    "text": {
+                        "content": "1- Groups / Participated Wallets ",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": true,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "1- Groups / Participated Wallets ",
+                    "href": null
+                }],
+                [{
+                    "type": "text",
+                    "text": {
+                        "content": "We are not able to consider Airdrop or preserve spots for pre-holder now.",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "We are not able to consider Airdrop or preserve spots for pre-holder now.",
+                    "href": null
+                }]
+            ]
+        }
+    }, {
+        "object": "block",
+        "id": "f92312b9-1c55-42a8-b315-41954b987d93",
+        "parent": {
+            "type": "block_id",
+            "block_id": "dccade80-7167-47e3-813b-30f5e29d217a"
+        },
+        "created_time": "2023-03-08T05:52:00.000Z",
+        "last_edited_time": "2023-03-08T05:52:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "82e1217e-2b1b-4c98-a0e7-34e4884ec1a7"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "82e1217e-2b1b-4c98-a0e7-34e4884ec1a7"
+        },
+        "has_children": false,
+        "archived": false,
+        "type": "table_row",
+        "table_row": {
+            "cells": [
+                [{
+                    "type": "text",
+                    "text": {
+                        "content": "Greed Rate",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": true,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Greed Rate",
+                    "href": null
+                }],
+                [{
+                    "type": "text",
+                    "text": {
+                        "content": "48.02%",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "48.02%",
+                    "href": null
+                }],
+                [{
+                    "type": "text",
+                    "text": {
+                        "content": "Higer the rate, more repetitive people in the Project",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Higer the rate, more repetitive people in the Project",
+                    "href": null
+                }],
+                [{
+                    "type": "text",
+                    "text": {
+                        "content": "(Group’s mint ≥ Avg Mint) / Groups",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": true,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "(Group’s mint ≥ Avg Mint) / Groups",
+                    "href": null
+                }],
+                [{
+                    "type": "text",
+                    "text": {
+                        "content": "Avg Mint is the rounding of (Total Supply / Groups) by default. It may not well reflect the situation for small supply or 1mint / address. We will adjust it in the future.",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Avg Mint is the rounding of (Total Supply / Groups) by default. It may not well reflect the situation for small supply or 1mint / address. We will adjust it in the future.",
+                    "href": null
+                }]
+            ]
+        }
+    }],
+    "next_cursor": null,
+    "has_more": false
+}
